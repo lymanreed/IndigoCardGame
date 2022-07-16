@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":Topics-String_basics-The_string_size" external.linked.project.path="$MODULE_DIR$/../../../../../Topics/String basics/The string size" external.root.project.path="$MODULE_DIR$/../../../../.." external.system.id="GRADLE" external.system.module.group="Indigo Card Game" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../../Topics/String basics/The string size">
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/String basics/The string size/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/String basics/The string size/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/String basics/The string size/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
